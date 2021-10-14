@@ -1,0 +1,10 @@
+https://discord.com/oauth2/authorize?client_id=887716717193728091&scope=bot&permissions=8589934079
+
+
+/*online/offline*/
+
+client.once('ready',() => {
+    console.log('SLATT');
+});
+
+cleint.login('2bde0fd16e2f541449da0ef6ffcb76e748c04ca7644e015bd0b8de2d6ebab00e');
